@@ -1,0 +1,20 @@
+text,intents
+เปิดเพลง ash like snow ,Music.Play
+เล่นเพลง ash like snow ,Music.Play
+เล่นเพลง aaa ,Music.Play
+เล่นเพลง 輪廻 จาก さくら もゆ ,Music.Play
+เล่นเพลงออออ ,Music.Play
+เล่น https://www.youtube.com/watch?v=X2e1vPBJjcA ,Music.Play
+เล่นเพลงซ้ำ ,Music.Repeat
+วนเพลงซ้ำ ,Music.Repeat
+เอาเพลงเดิมอีก ,Music.Repeat
+ลบเพลง ash like snow ,Music.Skip
+ลบเพลง ppp ,Music.Skip
+ข้ามเพลง aaa ,Music.Skip
+ลบเพลงทั้งหมด ,Music.SkipAll
+ลบเพลงทั้งคิว ,Music.SkipAll
+ข้ามเพลงทั้งหมด ,Music.SkipAll
+เอาคอมมานด์มาดิ ,Help
+ขอความช่วยเหลือ ,Help
+เอาตัวอย่างค่ำสั่งมา ,Help
+บอททำอะไรได้บ้าง ,Help

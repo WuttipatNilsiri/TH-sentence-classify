@@ -1,0 +1,7 @@
+{
+    "path":"./model/",
+    "tfidf":"CNN.matrix",
+    "lb":"ib.encoded",
+    "model_arc":"CNN.arc",
+    "model_w":"weights.h5"
+}
